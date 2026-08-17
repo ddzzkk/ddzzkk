@@ -1,16 +1,7 @@
-# ddzzkk.github.io
+# Hi, I'm DZK 👋
 
-个人主页，由 GitHub Pages 托管。
+开发者，喜欢折腾代码、工具和一切有趣的东西。
 
-## 本地预览
-
-```shell
-python3 -m http.server 8000
-```
-
-然后打开 <http://localhost:8000>。
-
-## 部署
-
-在 GitHub 仓库的 **Settings → Pages** 中，选择 **Deploy from a branch**，分支选 `main`，目录选 `/ (root)` 即可。
-启用后访问地址为 `https://ddzzkk.github.io/`。
+- 🌐 主页：https://ddzzkk.github.io
+- 💻 常玩：C/C++ · Python · LLVM · Linux
+- 📫 联系：hello@example.com
